@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:jlaw9/ubiquitous-broccoli.git
 	branch = master
-	commit = 75e39de399d010e35f187ca9d5c9795ab59a4211
-	parent = 55babe70f566becffb24421e90420899f64afc08
+	commit = 1bcd279d1cf39b0958e0af4d0c316a536b78f766
+	parent = 92cc335ff8c9e4ae72c5a50663993d796abf368c
 	method = merge
 	cmdver = 0.4.1
